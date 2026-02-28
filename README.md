@@ -20,7 +20,10 @@ Human breast cancer dataset from ['High resolution mapping of the tumor microenv
 
 Human lymph node dataset from ['Deciphering spatial domains from spatial multi-omics with SpatialGlue'](https://www.nature.com/articles/s41592-024-02316-4).
 
-More details of data pre-processing and fully aligned spatial multi-omics data will be released soon. 
+MISAR-seq dataset from ['Simultaneous profiling of spatial gene expression and chromatin accessibility during mouse brain development'](https://www.nature.com/articles/s41592-023-01884-1).
+
+The details for processing SMA and STARmap PLUS datasets are placed in the folder '1_Data_preparation'.
+Here, we released the processed spatial multi-omics data at ['GoogleDrive'](https://drive.google.com/drive/folders/1YKBM-N4bP6WJyQ07EmRoZI5lQl0EKFF6?usp=drive_link). Please feel free to reach out to us if the link has expired. 
 
 ## Model training
 For each spatial multi-omics data, we wrote a specific *.py* file for model training and testing. 
