@@ -1,8 +1,11 @@
-# NicheTrans: Spatial-aware Cross-omics Translation  (Not finished yet)
+# NicheTrans: Spatial-aware Cross-omics Translation
 This is the *official* Pytorch implementation of "NicheTrans: Spatial-aware Cross-omics Translation". 
 
-## Pipeline
+## Overview
 ![framework](overall.png)
+
+Spatial omics technologies have revolutionized our studies on tissue architecture and cellular interactions. While spatial multi-omics offers unprecedented insights into complex biological systems, its widespread adoption is hindered by technical challenges, specialized requirements, and limited accessibility. To address these limitations, we present NicheTrans, the first spatially-aware cross-omics translation method and a flexible Transformer-based multi-modal framework. Unlike existing single-cell translation methods, NicheTrans uniquely incorporates both cellular microenvironment information and multi-modal data. We validated the advantage of NicheTrans across diverse biological cases. Through NicheTrans, we uncovered spatial multi-omics domains that were not detectable through single-omics analysis alone. Model interpretation revealed key molecular relationships, including gene programs associated with dopamine metabolism and amyloid β-associated cell states. Additionally, using translated protein markers as spatial landmarks, we quantified the spatial organization of key glial cell subtypes in the Alzheimer's Disease brain. NicheTrans represents a powerful tool for generating comprehensive spatial multi-omics insights from more accessible single-omics measurements, making multi-omics analysis more feasible for the broader research community.![Uploading image.png…]()
+
 
 ## Preparation
 ### Installation
