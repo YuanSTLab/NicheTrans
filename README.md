@@ -33,14 +33,17 @@ The detailed correspondence between subfigures in the manuscript and Jupyter fil
 codes_figures.txt 
 ```
 
-## Model testing
+Taking the SMA dataset as an example, the training process of NicheTrans is shown in:
+```bash
+Tutorial 3.1 Train NicheTrans on SMA data.ipynb
+```
 We provide the jupyter notebook for quantitative evaluation using pcc, spcc, and qualitative visualization of the translated results. 
 ```bash
-visualize_lymph_node.ipynb
+Tutorial 3.2 Visualize results.ipynb
 ```
 
 ## Acknowledgement
-[Stagate](https://stagate.readthedocs.io/en/latest/index.html#), [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html), [GraphST](https://deepst-tutorials.readthedocs.io/en/latest/#), [SEDR](https://sedr.readthedocs.io/en/latest/index.html).
+[SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html)
 
 ## Contact
-If you have any questions, please don't hesitate to contact us. E-mail: [zhiyuan@fudan.edu.cn]@(mailto:zhiyuan@fudan.edu.cn); [zhikang.wang@monash.edu](mailto:zhikang.wang@monash.edu).
+If you have any questions, please don't hesitate to contact us. E-mail: [zhiyuan@fudan.edu.cn]@(mailto:zhiyuan@fudan.edu.cn); [zkwang00@gmail.com](mailto:zkwang00@gmail.com).
