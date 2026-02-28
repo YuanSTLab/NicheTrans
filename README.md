@@ -26,7 +26,7 @@ The detailed processing pipelines for the SMA and STARmap PLUS datasets are loca
 Here, we released the processed spatial multi-omics data at ['GoogleDrive'](https://drive.google.com/drive/folders/1YKBM-N4bP6WJyQ07EmRoZI5lQl0EKFF6?usp=drive_link). Please feel free to reach out to us if the link has expired. 
 
 ## Model training & testing
-For each spatial multi-omics dataset, we have prepared the Jupyter files for model training and testing separately. 
+For each spatial multi-omics dataset, we have prepared the Jupyter files for model training and testing separately. __Before model training & testing, please change the direction of the datasets in the 'args' folder.__
 
 The detailed correspondence between subfigures in the manuscript and Jupyter files is shown in:
 ```bash
@@ -41,8 +41,6 @@ We provide the jupyter notebook for quantitative evaluation using pcc, spcc, and
 ```bash
 Tutorial 3.2 Visualize results.ipynb
 ```
-Before model training & testing, please change the direction of the datasets in the 'args' folder. 
-
 ## Model attribution analysis
 Apart from the spatial cross-omics translation, we also provided guidelines for attribution analysis in 'Tutorial 3.3', 'Tutorial 6.5', and 'Tutorial 6.6'.
 
