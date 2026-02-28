@@ -25,13 +25,13 @@ MISAR-seq dataset from ['Simultaneous profiling of spatial gene expression and c
 The details for processing SMA and STARmap PLUS datasets are placed in the folder '1_Data_preparation'.
 Here, we released the processed spatial multi-omics data at ['GoogleDrive'](https://drive.google.com/drive/folders/1YKBM-N4bP6WJyQ07EmRoZI5lQl0EKFF6?usp=drive_link). Please feel free to reach out to us if the link has expired. 
 
-## Model training
-For each spatial multi-omics data, we wrote a specific *.py* file for model training and testing. 
-Here, taking the human lymph node dataset as an example:
+## Model training & testing
+For each spatial multi-omics dataset, we have prepared the Jupyter files for model training and testing separately. 
+
+The detailed correspondence between subfigures in the manuscript and Jupyter files is shown in:
 ```bash
-python Human_lymph_node_train_rna.py 
+codes_figures.txt 
 ```
-Users need to change the path while loading different datasets. 
 
 ## Model testing
 We provide the jupyter notebook for quantitative evaluation using pcc, spcc, and qualitative visualization of the translated results. 
