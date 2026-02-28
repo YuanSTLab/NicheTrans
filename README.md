@@ -46,4 +46,4 @@ Tutorial 3.2 Visualize results.ipynb
 [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html)
 
 ## Contact
-If you have any questions, please don't hesitate to contact us. E-mail: [zhiyuan@fudan.edu.cn]@(mailto:zhiyuan@fudan.edu.cn); [zkwang00@gmail.com](mailto:zkwang00@gmail.com).
+If you have any questions, please don't hesitate to contact us. E-mail: [zkwang00@gmail.com](mailto:zkwang00@gmail.com); [zhiyuan@fudan.edu.cn](mailto:zhiyuan@fudan.edu.cn).
