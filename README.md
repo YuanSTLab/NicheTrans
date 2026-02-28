@@ -44,5 +44,9 @@ Tutorial 3.2 Visualize results.ipynb
 ## Model attribution analysis
 Apart from the spatial cross-omics translation, we also provided guidelines for attribution analysis in 'Tutorial 3.3', 'Tutorial 6.5', and 'Tutorial 6.6'.
 
+'Tutorial 3.3' and 'Tutorial 6.5' are for niche-level attribution analysis across genes. 
+
+'Tutorial 6.6' can reveal intercellular cross-omics interaction in the spatial context. 
+
 ## Contact
 If you have any questions, please don't hesitate to contact us. E-mail: [zkwang00@gmail.com](mailto:zkwang00@gmail.com); [zhiyuan@fudan.edu.cn](mailto:zhiyuan@fudan.edu.cn).
